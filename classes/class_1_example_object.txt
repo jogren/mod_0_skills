@@ -1,0 +1,11 @@
+Jerusalem Restaurant Menu
+
+Attributes:
+20
+"middle eastern"
+true
+
+Methods:
+21
+19
+true
