@@ -1,0 +1,12 @@
+Employees at Company
+
+Attributes:
+number_of_employees(integer)
+names_of_employees(array)
+current_employees_working(array)
+
+
+Methods:
+hire_employee(number_of_employees + 1)
+fire_employee(number_of_employees - 1)
+available_employees_on_call(names_of_employees - current_employees_working)
