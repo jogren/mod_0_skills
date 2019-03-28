@@ -1,0 +1,11 @@
+Employees at Jerusalems Restaurant
+
+Attributes:
+5
+["Amir","John","Rebecca","Said","Cheyanne"]
+["Amir","John","Cheyanne"]
+
+Methods:
+6
+4
+["Rebecca","Said"]
