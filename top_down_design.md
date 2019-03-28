@@ -1,0 +1,31 @@
+Eating at a Restaurant
+
+- Arrive at restaurant
+	- Check in with host
+		- Find host at front of restaurant
+		- Say your name to host
+	- Be seated
+		- Choose a seat
+		- Sit down
+- Confirm your order
+	- Browse menu
+		- Scan the menu from top to bottom, left to right
+	- Choose a dish
+		Select your favorite option
+	- Communicate your order to the waiter
+- Engage in the meal
+	- Eat foot
+		- Use fork to pick up foot
+		- Place food in your mouth
+		- Crew
+		- Swallow
+	- Converse with companions
+		- Brainstorm an interesting topic
+		- Speak to companion
+		- Listen to answer
+- Pay for food
+	- Pay with credit card
+		- Place credit card in the folder
+	- Pay with cash
+		- Calculate how much cash you have
+		- Pay cash equal to bill
