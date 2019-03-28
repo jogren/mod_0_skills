@@ -1,0 +1,11 @@
+Restaurant Menu
+
+Attributes:
+number_of_items(integer)
+type_of_food(string)
+vegetarian_options(boolean)
+
+Methods:
+add_item(number_of_items + 1)
+remove_item(number_of_items - 1)
+add_vegetarian_option(return true for vegetarian_options)
