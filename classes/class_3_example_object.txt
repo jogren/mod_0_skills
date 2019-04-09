@@ -1,0 +1,11 @@
+Object: Supreme Pizza
+
+Attributes:
+"Thin Crust"
+4
+15
+
+Methods:
+5
+3
+20
