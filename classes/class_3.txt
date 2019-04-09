@@ -1,0 +1,11 @@
+Class: Pizza
+
+Attributes:
+crust_type(string)
+num_of_toppings(integer)
+cook_time(integer)
+
+Methods:
+add_topping(num_of_toppings + 1)
+remove_topping(num_of_toppings - 1)
+cook_crispy(cook_time + 5)
